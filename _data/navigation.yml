@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
