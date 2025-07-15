@@ -187,7 +187,7 @@ author_profile: true
         <div class="cv-role-title">Co-Head Financial Resources Optimisation, Director, Global Markets</div>
         <div class="cv-organization">HSBC, London, UK</div>
       </div>
-      <div>July 2022 – March 2024</div>
+      <div>July 2022 – Mar 2024</div>
     </div>
 
     <div class="cv-role">

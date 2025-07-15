@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Here are some of my recent data science and machine learning projects:
+Here are some of my public data science projects:
 
 ---
 
@@ -61,11 +61,11 @@ Here are some of my recent data science and machine learning projects:
 <div style="max-width: 1500px; margin: 0 auto;">
   <div class="project-grid">
     <div class="project-card">
-      <img src="{{ '/assets/images/nlp.jpg' | relative_url }}" alt="Twitter Sentiment Project">
+      <img src="{{ '/assets/images/nlp.jpg' | relative_url }}" alt="Relative Value Credit Portfolio">
       <div class="project-card-content">
-        <h3>Stock Prediction with Twitter Sentiment</h3>
-        <p>Built an ML pipeline to predict stock movements based on tweet sentiment. Strategy outperformed a benchmark in backtests.</p>
-        <a href="./project-twitter-sentiment">Read more →</a>
+        <h3>Generating Credit Portfolios with similar behaviour but different price</h3>
+        <p>Using CDS spread data and obligor features (industry, rating etc.) to identify portfolios, which behave in similar ways but have significantly different prices.</p>
+        <a href="to be added">More to come →</a>
       </div>
     </div>
 
@@ -74,30 +74,31 @@ Here are some of my recent data science and machine learning projects:
       <div class="project-card-content">
         <h3>Index Arbitrage using PCA</h3>
         <p>Used Principal Component Analysis to detect index mispricings and design a z-score based mean reversion strategy.</p>
-        <a href="./project-pca-strategy">Read more →</a>
+        <a href="./project-pca-strategy">More to come →</a>
       </div>
     </div>
 
   <div class="project-card">
-    <img src="{{ '/assets/images/telco_header.png' | relative_url }}" alt="Telco Churn Project">
+    <img src="{{ '/assets/images/telco_header.png' | relative_url }}" alt="Flexible Backtester">
     <div class="project-card-content">
-      <h3>Customer Churn Prediction for Telco</h3>
-      <p>Used machine learning to predict telecom churn, with insights on contract types, services, and support features.</p>
-      <a href="./project-telco-churn">Read more →</a>
+      <h3>Strategy backtesting implementation</h3>
+      <p>Implemented very flexible backtesting tool with considerations for trading costs, market impacts etc..
+      Runs regressions and ML algorithms at each step through time to simulate data available at the time.</p>
+      <a href="to be added">Read more →</a>
     </div>
-  </div>
+  </div> -->
 
   <div class="project-card">
-      <img src="{{ '/assets/images/simulator_header.png' | relative_url }}" alt="Strategy Simulator">
+      <img src="{{ '/assets/images/simulator_header.png' | relative_url }}" alt="Bank Capital Alllocator">
       <div class="project-card-content">
-        <h3>Operational Strategy Simulator</h3>
-        <p>Simulated initiative performance and optimizes ROI or ARR under budget and resource constraints. Includes Monte Carlo analysis.</p>
-        <a href="./project-strategy-simulator">Read more →</a>
+        <h3>Allocation of capital under constraints</h3>
+        <p>Optimizing RoTE under constraints like minimal regulatory level, interactions between measures, liquidity, balance sheet and market stress.</p>
+        <a href="to be added">More to come →</a>
       </div>
-    </div>
+    </div> -->
 
   <!-- Add more cards here -->
-</div>
+<!-- </div>
 
 <hr>
 
@@ -108,4 +109,4 @@ Here are some of my recent data science and machine learning projects:
 <strong><a href="https://github.com/mkobers/..." target="_blank">Here needs to go the title</a></strong><br>
 <em>Description</em><br><br>
 
-</div>
+</div> -->
