@@ -200,7 +200,7 @@ author_profile: true
 
     <div class="cv-role">
       <div>
-        <div class="cv-role-title"Financial Resources Management, Director, Global Markets</div>
+        <div class="cv-role-title">Financial Resources Management, Director, Global Markets</div>
         <div class="cv-organization">HSBC, London, UK</div>
       </div>
       <div>Sept 2015 – Aug 2019</div>
@@ -208,8 +208,8 @@ author_profile: true
 
     <div class="cv-role">
       <div>
-        <div class="cv-role-title"Rates Structuring, Global Markets</div>
-        <div class="cv-organization">HSBC, London, UK and Duesseldorf, Germany</div>
+        <div class="cv-role-title">Rates Structuring, Global Markets</div>
+        <div class="cv-organization">HSBC, London & Duesseldorf</div>
       </div>
       <div>Aug 2007 – Aug 2015</div>
     </div>
