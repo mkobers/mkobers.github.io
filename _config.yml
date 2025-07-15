@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Matthias S. Koberstein"
-  avatar : "/assets/images/"
-  bio    : "Passionate about machine learning, analytics, and creating impact through data."
+  avatar : "/assets/images/MSK.jpeg"
+  bio    : "Passionate about tangible and actionable outcomes from analysis."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
